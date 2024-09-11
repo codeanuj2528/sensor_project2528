@@ -1,0 +1,4 @@
+1) create a empty folder 
+2) creae the virtual environment venv(conda create venv)
+
+3)activate the environment(conda activate venv)
